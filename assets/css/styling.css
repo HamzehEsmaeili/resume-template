@@ -262,7 +262,7 @@ html {
 
 .card__image {
   height: 360px;
-  background-image: url("../Images/background-card.jpg");
+  background-image: url("/assets/images/background-card.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
